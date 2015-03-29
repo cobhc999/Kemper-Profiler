@@ -1,0 +1,16 @@
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\midi-dot-net-master\bin\Debug\Midi.XML
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\midi-dot-net-master\bin\Debug\Midi.dll
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\midi-dot-net-master\bin\Debug\Midi.pdb
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\midi-dot-net-master\obj\Debug\Midi.dll
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\midi-dot-net-master\obj\Debug\Midi.pdb
+F:\KemperEditor\midi-dot-net-master\bin\Debug\Midi.XML
+F:\KemperEditor\midi-dot-net-master\bin\Debug\Midi.dll
+F:\KemperEditor\midi-dot-net-master\bin\Debug\Midi.pdb
+F:\KemperEditor\midi-dot-net-master\obj\Debug\Midi.dll
+F:\KemperEditor\midi-dot-net-master\obj\Debug\Midi.pdb
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\midi-dot-net-master\bin\Debug\Midi.XML
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\midi-dot-net-master\bin\Debug\Midi.dll
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\midi-dot-net-master\bin\Debug\Midi.pdb
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\midi-dot-net-master\obj\Debug\Midi.dll
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\midi-dot-net-master\obj\Debug\Midi.pdb
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\midi-dot-net-master\obj\Debug\MIDI.csprojResolveAssemblyReference.cache

@@ -1,0 +1,76 @@
+\\bfhfilerbe01.bfh.ch\hft3\Visual Studio 2012\Projects\KemperEditor\KemperEditor\bin\Debug\KemperEditor.exe.config
+\\bfhfilerbe01.bfh.ch\hft3\Visual Studio 2012\Projects\KemperEditor\KemperEditor\bin\Debug\KemperEditor.exe
+\\bfhfilerbe01.bfh.ch\hft3\Visual Studio 2012\Projects\KemperEditor\KemperEditor\bin\Debug\KemperEditor.pdb
+\\bfhfilerbe01.bfh.ch\hft3\Visual Studio 2012\Projects\KemperEditor\KemperEditor\obj\Debug\KemperEditor.csprojResolveAssemblyReference.cache
+\\bfhfilerbe01.bfh.ch\hft3\Visual Studio 2012\Projects\KemperEditor\KemperEditor\obj\Debug\MainWindow.baml
+\\bfhfilerbe01.bfh.ch\hft3\Visual Studio 2012\Projects\KemperEditor\KemperEditor\obj\Debug\App.baml
+\\bfhfilerbe01.bfh.ch\hft3\Visual Studio 2012\Projects\KemperEditor\KemperEditor\obj\Debug\MainWindow.g.cs
+\\bfhfilerbe01.bfh.ch\hft3\Visual Studio 2012\Projects\KemperEditor\KemperEditor\obj\Debug\App.g.cs
+\\bfhfilerbe01.bfh.ch\hft3\Visual Studio 2012\Projects\KemperEditor\KemperEditor\obj\Debug\KemperEditor_MarkupCompile.cache
+\\bfhfilerbe01.bfh.ch\hft3\Visual Studio 2012\Projects\KemperEditor\KemperEditor\obj\Debug\KemperEditor.g.resources
+\\bfhfilerbe01.bfh.ch\hft3\Visual Studio 2012\Projects\KemperEditor\KemperEditor\obj\Debug\KemperEditor.Properties.Resources.resources
+\\bfhfilerbe01.bfh.ch\hft3\Visual Studio 2012\Projects\KemperEditor\KemperEditor\obj\Debug\KemperEditor.csproj.GenerateResource.Cache
+\\bfhfilerbe01.bfh.ch\hft3\Visual Studio 2012\Projects\KemperEditor\KemperEditor\obj\Debug\KemperEditor.exe
+\\bfhfilerbe01.bfh.ch\hft3\Visual Studio 2012\Projects\KemperEditor\KemperEditor\obj\Debug\KemperEditor.pdb
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\bin\Debug\KemperEditor.exe.config
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\KemperEditor.exe
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\KemperEditor.pdb
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\bin\Debug\KemperEditor.exe
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\bin\Debug\KemperEditor.pdb
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\KemperEditor.csprojResolveAssemblyReference.cache
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\MainWindow.baml
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\App.baml
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\App.g.cs
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\KemperEditor_MarkupCompile.cache
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\KemperEditor.g.resources
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\KemperEditor.Properties.Resources.resources
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\KemperEditor.csproj.GenerateResource.Cache
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\WhiteButton.baml
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\bin\Debug\Midi.dll
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\bin\Debug\Midi.pdb
+C:\Users\Timo\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\bin\Debug\Midi.xml
+\\bfhfilerbe01.bfh.ch\hft3\Visual Studio 2012\Projects\KemperEditor\KemperEditor\bin\Debug\Midi.dll
+\\bfhfilerbe01.bfh.ch\hft3\Visual Studio 2012\Projects\KemperEditor\KemperEditor\bin\Debug\Midi.pdb
+\\bfhfilerbe01.bfh.ch\hft3\Visual Studio 2012\Projects\KemperEditor\KemperEditor\bin\Debug\Midi.xml
+\\bfhfilerbe01.bfh.ch\hft3\Visual Studio 2012\Projects\KemperEditor\KemperEditor\obj\Debug\WhiteButton.baml
+\\bfhfilerbe01.bfh.ch\hft3\Visual Studio 2012\Projects\KemperEditor\KemperEditor\obj\Debug\LEDCheckbox.baml
+F:\KemperEditor\KemperEditor\bin\Debug\KemperEditor.exe.config
+F:\KemperEditor\KemperEditor\obj\Debug\KemperEditor.exe
+F:\KemperEditor\KemperEditor\obj\Debug\KemperEditor.pdb
+F:\KemperEditor\KemperEditor\bin\Debug\KemperEditor.exe
+F:\KemperEditor\KemperEditor\bin\Debug\KemperEditor.pdb
+F:\KemperEditor\KemperEditor\bin\Debug\Midi.dll
+F:\KemperEditor\KemperEditor\bin\Debug\Midi.pdb
+F:\KemperEditor\KemperEditor\bin\Debug\Midi.xml
+F:\KemperEditor\KemperEditor\obj\Debug\KemperEditor.csprojResolveAssemblyReference.cache
+F:\KemperEditor\KemperEditor\obj\Debug\LEDCheckbox.baml
+F:\KemperEditor\KemperEditor\obj\Debug\MainWindow.baml
+F:\KemperEditor\KemperEditor\obj\Debug\WhiteButton.baml
+F:\KemperEditor\KemperEditor\obj\Debug\App.baml
+F:\KemperEditor\KemperEditor\obj\Debug\MainWindow.g.cs
+F:\KemperEditor\KemperEditor\obj\Debug\App.g.cs
+F:\KemperEditor\KemperEditor\obj\Debug\KemperEditor_MarkupCompile.cache
+F:\KemperEditor\KemperEditor\obj\Debug\KemperEditor.g.resources
+F:\KemperEditor\KemperEditor\obj\Debug\KemperEditor.Properties.Resources.resources
+F:\KemperEditor\KemperEditor\obj\Debug\KemperEditor.csproj.GenerateResource.Cache
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\bin\Debug\KemperEditor.exe.config
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\KemperEditor.exe
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\KemperEditor.pdb
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\bin\Debug\KemperEditor.exe
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\bin\Debug\KemperEditor.pdb
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\bin\Debug\Midi.dll
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\bin\Debug\Midi.pdb
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\bin\Debug\Midi.xml
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\KemperEditor.csprojResolveAssemblyReference.cache
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\LEDCheckbox.baml
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\MainWindow.baml
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\RotarySlider.baml
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\WhiteButton.baml
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\App.baml
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\App.g.cs
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\KemperEditor_MarkupCompile.cache
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\KemperEditor.g.resources
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\KemperEditor.Properties.Resources.resources
+C:\Users\Timo Helfer\Documents\Visual Studio 2013\Projects\KemperEditor\KemperEditor\obj\Debug\KemperEditor.csproj.GenerateResource.Cache
